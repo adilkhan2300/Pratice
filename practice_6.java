@@ -1,4 +1,4 @@
-
+//using switch statement
 // weekday number to calculate the weekday name
 class HelloWorld {
     public static void main(String[] args) {
