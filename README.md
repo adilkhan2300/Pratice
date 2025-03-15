@@ -1,2 +1,2 @@
 # Pratice
-Just my daily practice codes!!!!!
+Just my Java practice codes!!!!!
